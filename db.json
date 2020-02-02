@@ -8,7 +8,14 @@
       "phone": 234535433
     }
   ],    
-  "profile": {
-    "name": "typicode"
-  }
+  "inhabitants": [
+    {
+      "id": 1,
+      "roomNr": "403",
+      "name": "Yana",
+      "surname": "Soltynska",
+      "phone": 234535433,
+      "code: 111111
+    }
+  ],
 }
