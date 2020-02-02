@@ -1,8 +1,11 @@
 {
-  "posts": [
+  "calendar": [
     {
       "id": 1,
-      "title": "hello"
+      "roomNr": "403",
+      "name": "Yana",
+      "surname": "Soltynska",
+      "phone": 234535433
     }
   ],
   "profile": {
