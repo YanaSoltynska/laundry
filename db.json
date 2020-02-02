@@ -16,6 +16,14 @@
       "surname": "Soltynska",
       "phone": 234535433,
       "code": 111111
+    },
+    {
+      "id": 2,
+      "roomNr": "205",
+      "name": "Olha",
+      "surname": "Velhas",
+      "phone": 234535433,
+      "code": 222222
     }
   ]
 }
