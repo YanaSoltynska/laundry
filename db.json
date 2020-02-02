@@ -1,22 +1,4 @@
 {
-  "inhabitants": [
-    {
-      "id": 1,
-      "roomNr": "403",
-      "name": "Yana",
-      "surname": "Soltynska",
-      "phone": 234535433,
-      "code": 111111
-    },
-    {
-      "id": 2,
-      "roomNr": "205",
-      "name": "Olha",
-      "surname": "Velhas",
-      "phone": 234535433,
-      "code": 222222
-    }
-  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -25,5 +7,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
