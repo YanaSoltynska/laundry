@@ -1,18 +1,20 @@
 {
   "calendar": [
     {
-      "id": 1,
-      "roomNr": "403",
-      "name": "Yana",
-      "surname": "Soltynska",
-      "phone": 234535433,
-      "date": "2020-02-25"
+      startDate: "2020-02-05 10:00",
+      endDate: "2020-02-05 11:30",
+      title: "403A"
+    },
+    {
+      startDate: "2020-02-05 11:30",
+      endDate: "2020-02-05 13:00",
+      title: "205B"
     }
   ],
   "inhabitants": [
     {
       "id": 1,
-      "roomNr": "403",
+      "roomNr": "403A",
       "name": "Yana",
       "surname": "Soltynska",
       "phone": 234535433,
@@ -20,7 +22,7 @@
     },
     {
       "id": 2,
-      "roomNr": "205",
+      "roomNr": "205B",
       "name": "Olha",
       "surname": "Velhas",
       "phone": 234535433,
