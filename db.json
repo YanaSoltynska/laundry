@@ -1,14 +1,14 @@
 {
   "calendar": [
     {
-      startDate: "2020-02-05 10:00",
-      endDate: "2020-02-05 11:30",
-      title: "403A"
+      "startDate": "2020-02-05 10:00",
+      "endDate": "2020-02-05 11:30",
+      "title": "403A"
     },
     {
-      startDate: "2020-02-05 11:30",
-      endDate: "2020-02-05 13:00",
-      title: "205B"
+     "startDate": "2020-02-05 11:30",
+      "endDate": "2020-02-05 13:00",
+      "title": "205B"
     }
   ],
   "inhabitants": [
